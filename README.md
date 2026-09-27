@@ -1,7 +1,7 @@
 Electronic Patient Records System
 A modern web application for managing electronic medical patient records, developed as part of a coursework/diploma project.
 
-🛠 Tech Stack
+Tech Stack
 Frontend: Vue.js (Vite)
 
 Backend: FastAPI (Python)
@@ -16,7 +16,7 @@ To run the project, ensure you have Docker and Docker Compose installed on your 
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/patient-records-system.git
+git clone https://github.com/Sikorska-Viktoriia/patient-records-system.git
 cd patient-records-system
 Run the system using Docker Compose:
 
